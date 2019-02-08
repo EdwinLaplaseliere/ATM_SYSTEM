@@ -1,0 +1,43 @@
+Edwin
+5432
+1700
+
+Withdrawal  20 on Sun Dec 17 16:17:29 GMT 2017
+
+Withdrawal  20 on Sun Dec 17 16:53:26 GMT 2017
+
+Transfer  10 on Sun Dec 17 17:09:30 GMT 2017
+
+Transfer  20 on Sun Dec 17 17:16:10 GMT 2017
+
+Transfer  50 on Sun Dec 17 17:20:22 GMT 2017
+
+Transfer  100 on Sun Dec 17 17:44:14 GMT 2017
+
+Withdrawal  400 on Sun Dec 17 17:51:18 GMT 2017
+
+Withdrawal  20 on Tue Dec 19 22:11:04 GMT 2017
+
+Transfer  500 on Tue Dec 19 22:12:39 GMT 2017
+
+Transfer  10 on Wed Dec 20 11:41:25 GMT 2017
+
+Transfer  10 on Wed Dec 20 21:52:09 GMT 2017
+
+Withdrawal  100 on Wed Dec 20 22:12:24 GMT 2017
+
+Withdrawal  100 on Wed Dec 20 22:12:47 GMT 2017
+
+Withdrawal  100 on Wed Dec 20 22:13:07 GMT 2017
+
+Transfer  10 on Wed Dec 20 22:16:28 GMT 2017
+
+Withdrawal  100 on Wed Dec 20 22:31:10 GMT 2017
+
+Withdrawal  20 on Thu Feb 07 22:29:06 GMT 2019
+
+Transfer  10 on Thu Feb 07 22:50:19 GMT 2019
+
+Withdrawal  20 on Fri Feb 08 12:28:28 GMT 2019
+
+Transfer  300 on Fri Feb 08 12:29:33 GMT 2019

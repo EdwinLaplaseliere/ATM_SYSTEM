@@ -1,0 +1,8 @@
+Current Account Transaction and Maintenance Fees:
+
+Visa Debit (ATM): 
+25c 3.5% of transaction value Minimum €3.17, Maximum €11.43 per transaction
+Visa Debit (Point of Sale):  
+10c 2% of transaction value Maximum €11.43 per transaction
+Visa Debit Contactless (Point of Sale): 
+01c 2% of transaction value Maximum €11.43 per transaction
